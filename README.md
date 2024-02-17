@@ -1,0 +1,2 @@
+# terraform_practices
+terraform_practices
